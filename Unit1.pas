@@ -16,6 +16,7 @@ type
 
 var
   Form1: TForm1;
+  Form2: TForm1;
 
 implementation
 
